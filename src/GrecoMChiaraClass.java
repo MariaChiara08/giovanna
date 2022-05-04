@@ -24,9 +24,9 @@ public class GrecoMChiaraClass {
 	 */
 
 	public int GrecoMet(int s,int f) {
-		int r=0;
-		for(int i=1;i<f;i++) {
-			r=f*i;
+		int r=(s*s)*(f*f);
+		for(int i=(s+1);i<f;i++) {   //la formula era sbagliata poicheè non moltilplicava i numeri per se stessi e pr gli altri
+			r*=(i*i);
 		}
 		return r;
 	}
