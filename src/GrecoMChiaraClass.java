@@ -1,5 +1,5 @@
 /**
- * <h1>Verifica GrecoMChiaraClass</h1>
+ * <h1>Verifica GrecoMChiaraClass </h1>
  * <h2><b>GRECO MARIA CHIARA</b></h2>
  * <h2><u>4AI</u></h2>
  * <h2><i>04/05/2022</i></h2>
